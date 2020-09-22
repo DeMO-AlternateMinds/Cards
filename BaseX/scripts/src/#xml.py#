@@ -1,0 +1,6 @@
+class xml:
+    def __init__(self, file):
+        self.file = file
+        self.content = [Tag("xml", False), Tag("xml", True)]
+    def add(content, position):
+        

@@ -1,0 +1,17 @@
+import os.path
+import re
+
+path = "/dummy_data"
+
+class XML:
+    
+
+
+class DummyData:
+    def create():
+        print("placeholder")
+    def delete():
+        print("placeholder")
+        
+        
+        

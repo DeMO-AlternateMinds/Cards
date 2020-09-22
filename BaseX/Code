@@ -1,0 +1,32 @@
+===|BASIC|===
+Name: Implement BaseX
+Date: Sat Sep 19 19:07:15 EDT 2020
+Designer: Devin M. O'Brien
+-----------------------------------------------------------
+Type: Functionality (XML
+Database), Proposal
+
+Description: BaseX is a
+framework for making databases
+that use XML files. It is accomplished by
+loading the data from xml into
+databases from which queries can be made
+using XQuery.
+
+Explanation: This should be
+something simple that we can
+use to manage the XML
+documents and will serve as
+the database for this
+project.
+
+BaseX: https://basex.org/
+-----------------------------------------------------------
+===|EXPANDED|===
+
+Notes:
+
+This is just a proposed idea
+and may not be adapted because
+there (I)  have been problems
+working with it. 
